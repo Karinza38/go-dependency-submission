@@ -1,4 +1,4 @@
-# Go Dependency Submission
+ # Go Dependency Submission
 
 This GitHub Action calculates dependencies for a Go build-target (a Go file with a
 `main` function) and submits the list to the [Dependency submission API](https://docs.github.com/en/code-security/supply-chain-security/understanding-your-software-supply-chain/using-the-dependency-submission-api). Dependencies then appear in your repository's dependency graph, and you'll receive Dependabot alerts and updates for vulnerable or out-of-date dependencies. 
